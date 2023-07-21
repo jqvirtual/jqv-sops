@@ -7,11 +7,23 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 theme:
   name: material
   logo: img/jq.png
   palette:
-    scheme: custom
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -20,3 +32,4 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - content.tooltips

@@ -1,0 +1,22 @@
+site_name: Jetstar Virtual Standard Operating Procedures
+repo_url: https://github.com/jqvirtual/jqv-sops
+repo_name: jqvirtual/jqv-sops
+extra_css:
+    - stylesheets/navigation.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+theme:
+  name: material
+  logo: img/jq.png
+  palette:
+    scheme: custom
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share

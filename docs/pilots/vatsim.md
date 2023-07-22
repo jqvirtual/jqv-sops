@@ -30,6 +30,6 @@ VATSIM rated air traffic controllers are in a position to give you instructions 
 ### Going AFK
 While flying on VATSIM, air traffic service conditions can change. It's important you're always monitoring online ATC and ensuring you haven't been requested to contact a controller.
 
-Pursuant to the VATSIM Code of Conduct B.B3(a) and B.B3(b), pilots should remain monitoring their flight at all times. If you're required to leave your flight unattended, you must not leave it unattended for more than 30 minutes.
+Pursuant to the VATSIM Code of Conduct B.B3(a) and B.B3(b), pilots should be monitoring their flight at all times. If you're required to leave your flight unattended, you must not leave it unattended for more than 30 minutes.
 
 It's your responsibility to ensure you're not in controlled airspace **at all times**.

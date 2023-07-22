@@ -8,7 +8,7 @@ Pilot reports also known as PIREPs, must be filed after each flight completed by
 A PIREP contains the following information:
 
 * Callsign
-* Aircraft
+* Aircraft Information
 * Departure and Arrival Airport
 * Log of events
 
@@ -30,11 +30,14 @@ Guidelines apply, such as:
 
 ## Diversion Policy
 
-As stated earlier "Depart and land at correct at the correct airports", Jetstar Virtual has a specific policy dedicated to diversions. Diversions may occur for a number of reasons such as but not limited to:
+Jetstar Virtual has a specific policy dedicated to diversions that exist as an only exemption to landing at an airport not filed on the flight plan. Diversions may occur for a number of reasons such as but not limited to:
 
 * Air Traffic Control Requirements
 * Risk to Aicraft Integrity
 * Weather
+
+!!!failure "Equipment Failure"
+    Equipment failure such as a broken throttle quadrant, or model-implemented failures such as engine failure are not an acceptable cause for diversion. It's your responsibility to ensure all equipment is functional and failures are disabled prior to departing.
 
 !!!failure "Medical Diversions"
     Medical diversions are not considered reasonable cause for diversion. PIREPs with such reasoning will be rejected.

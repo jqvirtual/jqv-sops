@@ -9,6 +9,10 @@ markdown_extensions:
   - pymdownx.superfences
   - abbr
   - attr_list
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md

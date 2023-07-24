@@ -29,7 +29,7 @@ Jetstar services flights to major cities from Melbourne including:
 |        | Ho Chi Minh City |
 
 ### Intersection Departure
-Performance permitting, Jetstar A320/1/neo aiarcraft can accept intersection departures from runways **16/34** at Melbourne.
+Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runways **16/34** at Melbourne.
 
 | Runway | Intersection | Length Remaining |
 | ------ | ------------ | ---------------- |

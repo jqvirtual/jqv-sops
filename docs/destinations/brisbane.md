@@ -12,27 +12,19 @@ Jetstar flights to domestic destinations park at bay **25-38** of the domestic t
 Jetstar flights to international destinations park at the international terminal. No specific bay is required, however please use the appropriate bay size.
 
 ### Handling
-Jetstar flights out of Brisbane are handled by Oceania.
+Domestic Jetstar flights are handled by Oceania. International B787-8 flights are handled by DNATA. International A320/1/neo are handled by Oceania.
+
 ### Services
+Jetstar services flights to major cities from Brisbane including:
 
-Jetstar services flights from Brisbane to:
-
-* Adelaide
-* Auckland
-* Ayers Rock
-* Cairns
-* Canberra
-* Darwin
-* Denpasar
-* Hobart
-* Launceston
-* Mackay
-* Melbourne
-* Newcastle
-* Perth
-* Proserpine
-* Sydney
-* Townsville
+| Domestic | International |
+| -------- | ------- |
+| Adelaide | Auckland |
+| Canberra | Denpasar |
+| Hobart |            |
+| Sydney |            |
+| Perth  |            |
+| Melbourne |         |
 
 Flights to Narita commence on 31 October 2023, and flights to Seoul commence will on 1 February 2024.
 
@@ -67,4 +59,4 @@ Performance permitting, Jetstar A320/1/neo aiarcraft can accept intersection dep
 | Brisbane Approach (South) † | `125.600` |
 | Brisbane Departures (North) † | `133.450` |
 | Brisbane Departures (South) † | `118.450` |
-| Brisbane Finals | `119.250` |
+| Brisbane Finals † | `119.250` |

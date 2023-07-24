@@ -1,4 +1,4 @@
-# Pilot Reports (PIREPs)
+# Pilot Reports
 
 Pilot reports also known as PIREPs, must be filed after each flight completed by a member of Jetstar Virtual. JQV pilots can utilise the smartCARS system to automatically log their flights to the JQV system.
 

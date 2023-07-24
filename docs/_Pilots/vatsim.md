@@ -33,3 +33,26 @@ While flying on VATSIM, air traffic service conditions can change. It's importan
 Pursuant to the VATSIM Code of Conduct B.B3(a) and B.B3(b), pilots should be monitoring their flight at all times. If you're required to leave your flight unattended, you must not leave it unattended for more than 30 minutes.
 
 It's your responsibility to ensure you're not in controlled airspace **at all times**.
+
+### Remarks
+
+It is imperitive that all pilots flying under a Jetstar Virtual Callsign utilise the remarks section of their VATSIM flight plan. This ensures that controllers and other pilots are aware of your intentions and who you are flying for.
+
+**MANDATORY** - `/OPR/JQVIRTUAL.COM/`
+
+???note "Optional - A320 Remarks"
+     A320/M-SDE3FGHIRWYZ/LB1
+     PBN/A1B1C1D1O2S2T1 NAV/RNP2 DOF/ REG/ EET/ SEL/ CODE/ OPR/JQVIRTUAL.COM PER/C
+
+???note "Optional - A321 Remarks"
+    A321/M-SDE3FGHIRWYZ/LB1
+    PBN/A1B1C1D1O2S2T1 NAV/RNP2 DOF/ EET/ SEL/ CODE/
+    OPR/JQVIRTUAL.COM PER/D
+
+???note "Optional - B788 Remarks"
+    B788/H-SADE3GHIJ3J5M1P2RWYZ/LB1D1
+    PBN/A1B1C1D1L1O2S2T1 NAV/RNP2 GLS SUR/RSP180 DOF/ REG/ EET/ SEL/ CODE/ OPR/JQVIRTUAL.COM PER/D
+
+???note "Optional - A21N Remarks"
+    A21N/M-SDE3FGHIJ3J5M1RWYZ/LB1
+    PBN/A1B1C1D1O2S2T1 NAV/RNP2 DAT/CPDLCX DOF/ EET/ SEL/ CODE/ OPR/JQVIRTUAL.COM PER/D

@@ -28,7 +28,7 @@ Jetstar services flights to major cities from Adelaide including:
 | Hobart |
 
 ### Intersection Departure
-Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **05** at Sydney.
+Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **05** at Adelaide.
 
 | Runway | Intersection | Length Remaining |
 | ------ | ------------ | ---------------- |

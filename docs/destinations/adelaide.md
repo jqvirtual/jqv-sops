@@ -32,6 +32,7 @@ Performance permitting, Jetstar A320/1/neo aircraft can accept intersection depa
 
 | Runway | Intersection | Length Remaining |
 | ------ | ------------ | ---------------- |
+| 05 | F4 | `6,811ft` |
 | 05 | F5 | `7,963ft` |
 
 ### Air Traffic Control

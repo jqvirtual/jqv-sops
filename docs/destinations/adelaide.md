@@ -48,4 +48,4 @@ Performance permitting, Jetstar A320/1/neo aircraft can accept intersection depa
 | Callsign | Frequency |
 | -------- | --------- |
 | Adelaide Approach | `124.200` |
-| Adelaide Departures | `118.200` |
+| Adelaide Departures † | `118.200` |

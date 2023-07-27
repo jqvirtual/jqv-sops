@@ -14,9 +14,9 @@ Jetstar flights out of Avalon are handled by Swissport.
 ### Services
 Jetstar services flights to major cities from Avalon including:
 
-| Domestic |
-| -------- |
-| Sydney |
+|  Domestic  |
+| ---------- |
+| Sydney     |
 | Gold Coast |
 
 ### Intersection Departure

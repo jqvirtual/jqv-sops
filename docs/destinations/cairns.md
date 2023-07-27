@@ -13,15 +13,15 @@ Jetstar flights out of Cairns are handled by Swissport.
 ### Services
 Jetstar services flights to cities from Cairns including:
 
-| Domestic | International |
-| -------- | ------- |
-| Adelaide | Tokyo |
-| Sydney | Osaka |
-| Darwin | Denpasar |
-| Melbourne |
-| Perth |
-| Brisbane |
-| Gold Coast |
+| Domestic   | International |
+| --------   | ------------- |
+| Adelaide   | Tokyo         |
+| Sydney     | Osaka         |
+| Darwin     | Denpasar      |
+| Melbourne  |               |
+| Perth      |               |
+| Brisbane   |               |
+| Gold Coast |               |
 
 ### Intersection Departure
 Cairns Airport does not permit Intersection departures, as a result, all aircraft must utilise full length. Back track is available but most aircraft primarily do not.
@@ -40,4 +40,4 @@ Cairns Airport does not permit Intersection departures, as a result, all aircraf
 | Callsign | Frequency |
 | -------- | --------- |
 | Cairns Approach | `118.400` |
-| Cairns Departures | `126.100` |
+| Cairns Departures † | `126.100` |

@@ -17,16 +17,16 @@ Jetstar flights out of Melbourne are handled by Menzies (Domestic) and DNATA (In
 ### Services
 Jetstar services flights to major cities from Melbourne including:
 
-| Domestic | International |
-| -------- | ------- |
-| Adelaide | Singapore |
-| Sydney | Phuket |
-| Darwin | Bangkok |
-| Canberra | Denpasar |
-| Perth | Auckland |
-| Brisbane | Queenstown |
-| Hobart | Christchurch |
-|        | Ho Chi Minh City |
+| Domestic |  International   |
+| -------- | ---------------- |
+| Adelaide | Singapore        |
+| Sydney   | Phuket           |
+| Darwin   | Bangkok          |
+| Canberra | Denpasar         |
+| Perth    | Auckland         |
+| Brisbane | Queenstown       |
+| Hobart   | Christchurch     |
+|          | Ho Chi Minh City |
 
 ### Intersection Departure
 Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runways **16/34** at Melbourne.

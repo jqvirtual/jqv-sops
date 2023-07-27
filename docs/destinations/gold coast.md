@@ -17,19 +17,17 @@ Jetstar flights out of Gold Coast are handled by Oceania
 ### Services
 Jetstar services flights to major cities from Gold Coast including:
 
-| Domestic | International |
-| -------- | ------- |
-| Adelaide | Queenstown |
-| Sydney | Tokyo |
-| Darwin | Wellington |
-| Canberra | Christchurch |
-| Newcastle | Auckland |
-| Avalon |  |
-| Cairns |  |
-| Melbourne | |
+| Domestic  | International |
+| --------  | ------------- |
+| Adelaide  | Queenstown    |
+| Sydney    | Tokyo         |
+| Darwin    | Wellington    |
+| Canberra  | Christchurch  |
+| Newcastle | Auckland      |
+| Melbourne |               |
 
 ### Intersection Departure
-Gold Coast Airport does not permit Intersection departures, as a result, all aircraft must utilise full length.
+Gold Coast Airport does not permit intersection departures, as a result, all aircraft must utilise full length.
 
 ### Air Traffic Control
 
@@ -44,4 +42,5 @@ Gold Coast Airport does not permit Intersection departures, as a result, all air
 #### Airspace Control
 | Callsign | Frequency |
 | -------- | --------- |
-| Brisbane Approach | `123.500` |
+| Brisbane Approach | `124.700` |
+| Brisbane Approach (Gold Coast) † | `123.500` |

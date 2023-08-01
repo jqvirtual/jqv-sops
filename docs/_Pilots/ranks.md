@@ -7,11 +7,12 @@ Jetstar Virtual has a number of pilot ranks our members can work towards. The fo
 
 | Rank | Hours |
 | ------ | ------------ | 
-| Chief Captain | `750+` | 
-| Captain | `500+` |
-| Senior First Officer | `300+` |
-| First Officer | `50+` |
+| Chief Captain | `350+` | 
+| Line Captain | `250+` |
+| Captain | `100+` |
+| Senior First Officer | `50+` |
+| First Officer | `20+` |
 | Second Officer | |
 
 !!!info "Chief Captain Role"
-    Captains who have 750+ hours can choose to apply to be a Chief Pilot - the position is not automatically assigned.
+    Line Captains who have 350+ hours can choose to apply to be a Chief Pilot - the position is not automatically assigned.

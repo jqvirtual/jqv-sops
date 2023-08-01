@@ -6,7 +6,7 @@ Sydney Airport is a major hub for Jetstar. Sydney has the highest number of dome
 ### Parking
 
 #### Domestic
-Jetstar flights to domestic destinations park at domestic bay's **49-58** in Sydneys's Terminal 2.
+Jetstar flights to domestic destinations park at domestic bay's **49-58** in Sydney's Terminal 2.
 
 #### International
 Jetstar flights to international destinations park at the international terminal **(T1)**. No specific bay is required, however please use the appropriate bay size.
@@ -15,18 +15,18 @@ Jetstar flights to international destinations park at the international terminal
 Jetstar domestic and international flights out of Sydney are handled by Swissport.
 
 ### Services
-Jetstar services flights to major cities from Melbourne including:
+Jetstar services flights to major cities from Sydney including:
 
 | Domestic | International |
 | -------- | ------- |
 | Adelaide | Singapore |
-| Sydney | Phuket |
-| Darwin | Seoul  |
+| Darwin   | Seoul  |
 | Canberra | Denpasar |
-| Perth | Auckland |
+| Perth    | Auckland |
 | Brisbane | Queenstown |
-| Hobart | Nadi |
-|        | Ho Chi Minh City |
+| Hobart   | Nadi |
+|          | Ho Chi Minh City |
+|          | Phuket |
 
 ### Intersection Departure
 Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **16R** at Sydney.
@@ -44,16 +44,20 @@ Performance permitting, Jetstar A320/1/neo aircraft can accept intersection depa
 | Callsign | Frequency |
 | -------- | --------- |
 | Sydney Delivery | `133.800` |
-| Sydney Ground | `121.700` |
-| Sydney Ground | `126.500` |
-| Sydney Coordinator | `127.600` |
-| Sydney Tower | `120.500` |
-| Sydney Tower | `124.700` |
+| Sydney Ground (East) † | `121.700` |
+| Sydney Ground (West) | `126.500` |
+| Sydney Coordinator † | `127.600` |
+| Sydney Tower (West) | `120.500` |
+| Sydney Tower (East) † | `124.700` |
 | Sydney ATIS | `126.250` |
 
 #### Airspace Control
 | Callsign | Frequency |
 | -------- | --------- |
-| Sydney Approach | `124.400` |
-| Sydney Departures † | `123.000` |
-| Sydney Departures † | `126.100` |
+| Sydney Approach (North) | `124.400` |
+| Sydney Approach (South) † | `128.300` |
+| Sydney Departures (North) † | `123.000` |
+| Sydney Departures (South) † | `129.700` |
+| Sydney Director (West) † | `126.100` |
+| Sydney Director (East) † | `125.300` |
+| Sydney Radar † | `124.550` |

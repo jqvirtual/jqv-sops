@@ -17,14 +17,14 @@ Domestic Jetstar flights are handled by Oceania. International B787-8 flights ar
 ### Services
 Jetstar services flights to major cities from Brisbane including:
 
-| Domestic | International |
-| -------- | ------- |
-| Adelaide | Auckland |
-| Canberra | Denpasar |
-| Hobart |            |
-| Sydney |            |
-| Perth  |            |
-| Melbourne |         |
+| Domestic  | International |
+| --------  | ------------- |
+| Adelaide  | Auckland      |
+| Canberra  | Denpasar      |
+| Hobart    |               |
+| Sydney    |               |
+| Perth     |               |
+| Melbourne |               |
 
 Flights to Narita commence on 31 October 2023, and flights to Seoul commence will on 1 February 2024.
 

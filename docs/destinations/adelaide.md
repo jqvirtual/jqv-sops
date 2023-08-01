@@ -17,21 +17,22 @@ Jetstar domestic and international flights out of Adelaide are handled by Dnata.
 ### Services
 Jetstar services flights to major cities from Adelaide including:
 
-| Domestic | International |
-| -------- | ------- |
-| Melbourne | Denpasar |
-| Cairns | |
-| Sydney | |
-| Gold Coast |
-| Perth |  |
-| Brisbane |
-| Hobart |
+|  Domestic  | International |
+| ---------- | ------------- |
+| Melbourne  | Denpasar      |
+| Cairns     |               |
+| Sydney     |               |
+| Gold Coast |               |
+| Perth      |               |
+| Brisbane   |               |
+| Hobart     |               |
 
 ### Intersection Departure
-Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **05** at Sydney.
+Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **05** at Adelaide.
 
 | Runway | Intersection | Length Remaining |
 | ------ | ------------ | ---------------- |
+| 05 | F4 | `6,811ft` |
 | 05 | F5 | `7,963ft` |
 
 ### Air Traffic Control
@@ -48,4 +49,4 @@ Performance permitting, Jetstar A320/1/neo aircraft can accept intersection depa
 | Callsign | Frequency |
 | -------- | --------- |
 | Adelaide Approach | `124.200` |
-| Adelaide Departures | `118.200` |
+| Adelaide Departures † | `118.200` |

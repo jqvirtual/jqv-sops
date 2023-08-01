@@ -1,4 +1,4 @@
-# Melbourne International Airport
+# Perth International Airport
 Perth Airport (**IATA:** PER, **ICAO:** YPPH) is the primary international airport serving Western Australia.
 
 Perth Airport is the only airport connecting Jetstar with the eastern side of the country. Excluding one flight to Busselton.
@@ -43,7 +43,7 @@ Performance permitting, Jetstar A320/1/neo aircraft can accept intersection depa
 | -------- | --------- |
 | Perth Delivery | `127.400` |
 | Perth Ground | `121.700` |
-| Perth East Ground † | `122.200` |
+| Perth Ground (East) † | `122.200` |
 | Perth Tower | `127.400` |
 | Perth ATIS | `123.800` |
 

@@ -1,4 +1,4 @@
-# Sydney International Airport
+# Sydney
 Sydney Kingsford Smith Airport (**IATA:** SYD, **ICAO:** YSSY) is the primary international airport serving New South Wales.
 
 Sydney Airport is a major hub for Jetstar. Sydney has the highest number of domestic connections in Australia.
@@ -36,7 +36,6 @@ Performance permitting, Jetstar A320/1/neo aircraft can accept intersection depa
 | 16R | B4 | `10,298ft` |
 | 16R | B3 | `10,925ft` |
 | 16R | F | `11,240ft` |
-| 16L | B3 | `10,925ft` |
 
 ### Air Traffic Control
 

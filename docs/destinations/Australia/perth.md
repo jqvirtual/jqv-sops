@@ -1,4 +1,4 @@
-# Perth International Airport
+# Perth
 Perth Airport (**IATA:** PER, **ICAO:** YPPH) is the primary international airport serving Western Australia.
 
 Perth Airport is the only airport connecting Jetstar with the eastern side of the country. Excluding one flight to Busselton.

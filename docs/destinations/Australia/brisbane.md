@@ -1,4 +1,4 @@
-# Brisbane International Airport
+# Brisbane
 Brisbane Airport (**IATA:** BNE, **ICAO:** YBBN) is the primary international airport serving Brisbane and South East Queensland.
 
 Brisbane Airport is a major hub for Jetstar. Brisbane has the third highest number of domestic connections in Australia following Sydney and Melbourne.

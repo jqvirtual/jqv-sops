@@ -1,4 +1,4 @@
-# Melbourne International Airport
+# Melbourne
 Melbourne Airport (**IATA:** MEL, **ICAO:** YMML) is the primary international airport serving metropolitan Melbourne.
 
 Melbourne Airport is a major hub for Jetstar. Melbourne has the second highest number of domestic connections in Australia, following Sydney.

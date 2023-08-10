@@ -1,4 +1,4 @@
-# Gold Coast  Airport
+# Gold Coast
 Gold Coast Airport (**IATA:** OOL, **ICAO:** YBCG) is the primary international airport serving the Gold Coast.
 
 Gold Coast Airport is a hub for Jetstar. Gold Coast has the some of the highest passenger rates, especially during summer months.

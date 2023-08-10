@@ -1,4 +1,4 @@
-# Avalon Airport
+# Avalon
 Avalon Airport (**IATA:** AVV, **ICAO:** YMAV) is the primary international airport serving the greater Geelong area..
 
 Jetstar is the primary carrier located at Avalon airport.

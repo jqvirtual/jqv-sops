@@ -1,4 +1,4 @@
-# Adelaide International Airport
+# Adelaide
 Adelaide Airport (**IATA:** ADL, **ICAO:** YPAD) is the primary international airport serving South Australia.
 
 Adelaide Airport is a hub for Jetstar. Adelaide has the a number of domestic connections throughout in Australia.

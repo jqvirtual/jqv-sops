@@ -9,7 +9,7 @@ Adelaide Airport is a hub for Jetstar. Adelaide has the a number of domestic con
 Jetstar flights to domestic destinations mainly park at Adelaide's only terminal, bays **23-26** but often park all throughout ADL's terminal depending on where there is space.
 
 #### International
-Jetstar Denparsar bound flights park at the international terminal, bay **(19)**.
+Jetstar Denpasar bound flights park at the international terminal, bay **(19)**.
 
 ### Handling
 Jetstar domestic and international flights out of Adelaide are handled by Dnata.

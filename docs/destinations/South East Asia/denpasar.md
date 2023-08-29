@@ -1,5 +1,5 @@
 # Denpasar
-Denpasar's I Gusti Ngurah Rai International Airport (**IATA:** DPS, **ICAO:** WADD) is a primary holiday destination for Australian and New Zealand tourist.
+Denpasar's I Gusti Ngurah Rai International Airport (**IATA:** DPS, **ICAO:** WADD) is a primary holiday destination for Australian and New Zealand tourists.
 
 ### Parking
 
@@ -7,7 +7,7 @@ Denpasar's I Gusti Ngurah Rai International Airport (**IATA:** DPS, **ICAO:** WA
 Jetstar flights to international destinations park at the international terminal within bays **A16 - A21**.
 
 ### Handling
-Jetstar domestic and international flights out of Denpasar are handled by DNATA.
+Jetstar flights out of Denpasar are handled by DNATA.
 
 ### Services
 Jetstar services flights to major cities from Sydney including:

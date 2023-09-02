@@ -21,7 +21,7 @@ Jetstar services flights to major cities from Sydney including:
 |       | Cairns |
 
 ### Intersection Departure
-Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from any runway at Denpasar, however it must be at pilots discresion.
+Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from any runway at Denpasar at crew discresion.
 
 !!!note "ATC Requirements"
     ATC at Denpasar have strict sequencing in order to minimise delay, follow all ATC directions and proceed to the last holding point or 'full length' if a holding point has not been assigned.

@@ -1,62 +1,48 @@
-# Sydney
-Sydney Kingsford Smith Airport (**IATA:** SYD, **ICAO:** YSSY) is the primary international airport serving New South Wales.
+# Auckland
+Auckland Airport (**IATA:** AKL, **ICAO:** NZAA) is the primary international airport serving New Zealand.
 
-Sydney Airport is a major hub for Jetstar. Sydney has the highest number of domestic connections in Australia.
+Auckland Airport is a major hub for Jetstar. Auckland has the highest number of domestic connections in New Zealand.
 
 ### Parking
 
 #### Domestic
-Jetstar flights to domestic destinations park at domestic bay's **49-58** in Sydney's Terminal 2.
+Jetstar flights to domestic destinations park at domestic bay's **20-24** in Aucklands domestic terminal.
 
 #### International
-Jetstar flights to international destinations park at the international terminal **(T1)**. No specific bay is required, however please use the appropriate bay size.
+Jetstar flights to international destinations have no assigned bay, however please use the appropriate bay size.
 
 ### Handling
-Jetstar domestic and international flights out of Sydney are handled by Swissport.
+Jetstar domestic and international flights out of Auckland are handled by Swissport.
 
 ### Services
-Jetstar services flights to major cities from Sydney including:
+Jetstar services flights to major cities from Auckland including:
 
 | Domestic | International |
 | -------- | ------- |
-| Adelaide | Singapore |
-| Darwin   | Seoul  |
-| Canberra | Denpasar |
-| Perth    | Auckland |
-| Brisbane | Queenstown |
-| Hobart   | Nadi |
-|          | Ho Chi Minh City |
-|          | Phuket |
+| Christchurch | Brisbana |
+| Wellington   | Gold Coast  |
+| Queenstown | Sydney |
+|             | Melbourne |
+|             | Queenstown |
+|             | Nadi |
+|             | Ho Chi Minh City |
+|             | Phuket |
 
 ### Intersection Departure
-Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures from runway **16R** at Sydney.
-
-| Runway | Intersection | Length Remaining |
-| ------ | ------------ | ---------------- |
-| 16R | B4 | `10,298ft` |
-| 16R | B3 | `10,925ft` |
-| 16R | F | `11,240ft` |
+Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures at Auckland.
 
 ### Air Traffic Control
 
 #### Ground Control
 | Callsign | Frequency |
 | -------- | --------- |
-| Sydney Delivery | `133.800` |
-| Sydney Ground (East) † | `121.700` |
-| Sydney Ground (West) | `126.500` |
-| Sydney Coordinator † | `127.600` |
-| Sydney Tower (West) | `120.500` |
-| Sydney Tower (East) † | `124.700` |
-| Sydney ATIS | `126.250` |
+| Auckland Delivery | `128.200` |
+| Auckland Ground | `121.900` |
+| Auckland Tower | `128.200` |
 
 #### Airspace Control
 | Callsign | Frequency |
 | -------- | --------- |
-| Sydney Approach (North) | `124.400` |
-| Sydney Approach (South) † | `128.300` |
-| Sydney Departures (North) † | `123.000` |
-| Sydney Departures (South) † | `129.700` |
-| Sydney Director (West) † | `126.100` |
-| Sydney Director (East) † | `125.300` |
-| Sydney Radar † | `124.550` |
+| Auckland Approach | `124.300` |
+| Auckland Departures | `129.600` |
+| Auckland Control | `123.900` |

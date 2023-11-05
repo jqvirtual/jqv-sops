@@ -6,7 +6,7 @@ Hobart Airport is a hub for Jetstar. Hobart has the highest number of domestic c
 ### Parking
 
 #### Domestic
-Jetstar flights to domestic destinations park at domestic bay's **1-5** in Hobarts only terminal..
+Jetstar flights to domestic destinations park at domestic bay's **1-5** in Hobart's only terminal.
 
 #### International
 Jetstar does not operate any international flights from Hobart.
@@ -17,16 +17,12 @@ Jetstar domestic and international flights out of Hobart are handled by Swisspor
 ### Services
 Jetstar services flights to major cities from Hobart including:
 
-| Domestic | International |
-| -------- | ------- |
-| Adelaide | Singapore |
-| Darwin   | Seoul  |
-| Canberra | Denpasar |
-| Perth    | Auckland |
-| Brisbane | Queenstown |
-| Hobart   | Nadi |
-| Melbourne         | Ho Chi Minh City |
-|          | Phuket |
+| Domestic |
+| -------- |
+| Adelaide |
+| Sydney   |
+| Brisbane |
+| Melbourne |
 
 ### Intersection Departure
 Jetstar A320/1/neo aircraft cannot accept intersection departures from any runway at Hobart.

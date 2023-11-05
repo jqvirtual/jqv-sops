@@ -1,7 +1,7 @@
 # Mackay
 Mackay Airport (**IATA:** MKY, **ICAO:** YBMK) is a popular holiday destination in northern Queensland.
 
-Mackay Airport has only one route .
+Jetstar only services one route at Mackay, which is to Brisbane.
 
 ### Parking
 
@@ -17,9 +17,9 @@ Jetstar's domestic flights out of Mackay are handled by Oceania.
 ### Services
 Jetstar services one flight to a major city from Mackay:
 
-|  Domestic  | International |
-| ---------- | ------------- |
-| Brisbane  |       |
+|  Domestic  |
+| ---------- |
+| Brisbane  |
 
 ### Intersection Departure
 Jetstar's A320/1/neo aircraft can accept intersection departures from either runway at Mackay.

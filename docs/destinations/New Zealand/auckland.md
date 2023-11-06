@@ -19,14 +19,10 @@ Jetstar services flights to major cities from Auckland including:
 
 | Domestic | International |
 | -------- | ------- |
-| Christchurch | Brisbana |
+| Christchurch | Brisbane |
 | Wellington   | Gold Coast  |
 | Queenstown | Sydney |
 |             | Melbourne |
-|             | Queenstown |
-|             | Nadi |
-|             | Ho Chi Minh City |
-|             | Phuket |
 
 ### Intersection Departure
 Performance permitting, Jetstar A320/1/neo aircraft can accept intersection departures at Auckland.
